@@ -11,6 +11,22 @@
     <content type="html"><![CDATA[<h1 id="Test-title-1"><a href="#Test-title-1" class="headerlink" title="Test title 1"></a>Test title 1</h1><h2 id="Test-title-2"><a href="#Test-title-2" class="headerlink" title="Test title 2"></a>Test title 2</h2>]]></content>
     
     
+    <categories>
+      
+      <category>Test</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>test</tag>
+      
+      <tag>francais</tag>
+      
+      <tag>blog</tag>
+      
+    </tags>
     
   </entry>
   
